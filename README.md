@@ -2,7 +2,7 @@
 
 🌐 Начинаю путь в веб-разработке | 🎮 Фанат игр (особенно Rust) | 🚀 Пока только учусь
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doctorsalamii&show_icons=true&hide=contribs&count_private=true&theme=cobalt)](https://github.com/doctorsalamii)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doctorsalamii&show_icons=true&hide=contribs&count_private=true&theme=synthwave)](https://github.com/doctorsalamii)
 
 ## 🛠️ Мои учебные проекты
 
