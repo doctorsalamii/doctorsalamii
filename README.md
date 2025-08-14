@@ -1,6 +1,7 @@
 # Привет, я Богдан (doctorsalamii)! 👋
 
 🌐 Начинаю путь в веб-разработке | 🎮 Фанат игр (особенно Rust) | 🚀 Пока только учусь
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doctorsalamii&show_icons=true&hide=contribs&count_private=true)](https://github.com/doctorsalamii)
 
 ## 🛠️ Мои учебные проекты
 
